@@ -1,0 +1,39 @@
+# Node.js
+
+# Dependencias
+node_modules/
+
+# Salida de producción
+dist/
+build/
+
+# Archivos del entorno
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Cache de paquetes
+.cache/
+.nyc_output/
+
+# Directorios del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de test coverage
+coverage/
+
+# IDEs
+.vscode/
+.idea/
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
