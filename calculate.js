@@ -1,4 +1,4 @@
-const dtid = 31;
+const dtid = 44;
 const glucemiaObjetivo = 100;
 
 function calcularInsulina(glucemiaActual, gramosCarbohidratos) {
